@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bcommath/static/css/main.0236d509.chunk.css",
-    "main.js": "/bcommath/static/js/main.e84b7f67.chunk.js",
-    "main.js.map": "/bcommath/static/js/main.e84b7f67.chunk.js.map",
+    "main.js": "/bcommath/static/js/main.aed34a6d.chunk.js",
+    "main.js.map": "/bcommath/static/js/main.aed34a6d.chunk.js.map",
     "runtime-main.js": "/bcommath/static/js/runtime-main.22ea5e83.js",
     "runtime-main.js.map": "/bcommath/static/js/runtime-main.22ea5e83.js.map",
     "static/css/2.2a86faee.chunk.css": "/bcommath/static/css/2.2a86faee.chunk.css",
     "static/js/2.f0dd6d56.chunk.js": "/bcommath/static/js/2.f0dd6d56.chunk.js",
     "static/js/2.f0dd6d56.chunk.js.map": "/bcommath/static/js/2.f0dd6d56.chunk.js.map",
     "index.html": "/bcommath/index.html",
-    "precache-manifest.7bda1622b29913d838b89c250ca302f6.js": "/bcommath/precache-manifest.7bda1622b29913d838b89c250ca302f6.js",
+    "precache-manifest.9ea8c208bc8ff4d2c18ba16a3c400653.js": "/bcommath/precache-manifest.9ea8c208bc8ff4d2c18ba16a3c400653.js",
     "service-worker.js": "/bcommath/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/bcommath/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.0236d509.chunk.css.map": "/bcommath/static/css/main.0236d509.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.f0dd6d56.chunk.js",
     "static/css/main.0236d509.chunk.css",
-    "static/js/main.e84b7f67.chunk.js"
+    "static/js/main.aed34a6d.chunk.js"
   ]
 }
